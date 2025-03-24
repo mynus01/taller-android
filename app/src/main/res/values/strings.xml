@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="til_password_hint">Password</string>
+    <string name="til_username_hint">Username</string>
+    <string name="mb_login_text">Login</string>
+    <string name="tv_welcome_text">Welcome!</string>
+    <string name="toast_login_error">Error logging in!</string>
+</resources>
